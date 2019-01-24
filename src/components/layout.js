@@ -17,7 +17,7 @@ export default ({children}) =>[
     <link rel="icon" type="image/png" sizes="16x16" href="/index.png" />
     <link rel="manifest" href="/manifest.json" />
     <meta name="msapplication-TileColor" content="#39bbdf" />
-    <meta name="theme-color" content="#39bbdf" />
+    <meta name="theme-color" content="#fff" />
     <title>MRC</title>
 </Helmet>,
 <div className="main">
