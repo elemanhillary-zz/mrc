@@ -1,0 +1,24 @@
+.backColor{
+	background: linear-gradient(-68deg, #114e65, #b1405c)
+}
+.buttonBack{
+  background: #0606064d;
+  border-radius: 100%;
+  border-color: transparent;
+  width: 60px;
+  height: 60px;
+  box-shadow: 0px 0px 2px 1px #14131333;
+}
+.buttonBack:hover{
+  color: #fff;
+  border-color: transparent;
+}
+.buttonBack:focus,.buttonBack:focus{
+	outline: none;
+}
+.title{
+	color: #fff;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 80px;
+}

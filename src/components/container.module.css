@@ -1,0 +1,59 @@
+body{
+  font-weight: bold;
+}
+.button{
+  background: #59d98e;
+  border:none;
+  color: #fff;
+  box-shadow: 0px 1px 2px 1px #b9ebcc;
+}
+.button:hover{
+  color: #fff;
+}
+.navbarText{
+  color: #1c2b48;
+}
+.ImageDesc{
+  width: 700px;
+}
+.tito{
+  max-width: 450px;
+  color: #071739;
+}
+.sub{
+  color: #888c95;
+  max-width: 500px;
+}
+.buttonContact{
+  margin-top: 20px;
+}
+.subbu{
+  font-size: 1.5rem;
+  margin-top: -20px;
+}
+.subServ{
+  margin-top: 90px;
+}
+.subServ,.subbu{
+  color: #000328;
+}
+.stickyNav{
+  display: inline-block;
+  float: right;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+.box{
+  box-shadow: none;
+  margin-bottom: -30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.box:hover{
+  box-shadow:rgba(0, 0, 0, 0.1) 0px 2px 5px 0px;
+  transition: box-shadow 200ms ease-in 300ms;
+}
+.futa{
+  padding: 20px;
+}
