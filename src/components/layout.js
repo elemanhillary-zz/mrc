@@ -33,7 +33,7 @@ export default ({children}) =>[
       <span></span>
     </div>
   </div>
-  <div id="navbarTransparent" className={styles.navbarMenu}>
+  <div id="navbarTransparent" className={styles.navbarMenu+" "+styles.left+" "+styles.tabs+" "+styles.isLeft}>
     <div className={styles.navbarEnd}>
       <a className={styles.navbarItem+" "+styles1.navbarItem} href="#home">
       Home
