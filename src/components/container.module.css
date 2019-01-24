@@ -38,11 +38,11 @@ body{
   color: #000328;
 }
 .stickyNav{
-  display: inline-block;
+/*   display: inline-block;
   float: right;
   position: fixed;
   z-index: 1;
-  width: 100%;
+  width: 100%; */
 }
 .box{
   box-shadow: none;
