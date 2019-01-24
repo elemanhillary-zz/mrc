@@ -22,7 +22,7 @@ export default ({children}) =>[
 </Helmet>,
 <div className="main">
 <div className={styles1.stickyNav}>
-<nav className={styles.navbar+" "+styles.isTransparent+" "+styles.isMobile}>
+<nav className={styles.navbar+" "+styles.isTransparent}>
   <div className={styles.navbarBrand}>
   <span className={styles.image}>
   <img src="index.png" style={{width:`56px`}}/>
@@ -33,7 +33,7 @@ export default ({children}) =>[
       <span></span>
     </div>
   </div>
-  <div id="navbarTransparent" className={styles.navbarMenu+" "+styles.left+" "+styles.tabs+" "+styles.isLeft}>
+  <div id="navbarTransparent" className={styles.navbarMenu+" "+styles.left+" "+styles.tabs+" "+styles.isLeft+" "+styles.isMobile}>
     <div className={styles.navbarEnd}>
       <a className={styles.navbarItem+" "+styles1.navbarItem} href="#home">
       Home
