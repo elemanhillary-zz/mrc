@@ -23,7 +23,9 @@ with national and international organizations engaged in furthering the politica
 and rural developmental interventions in South Sudan.
 </h3>
 <p className={styles1.buttonContact}>
+  <a href="mailto:elemanhillary@gmail.com">
 <span className={styles.button+" "+styles1.button}>Contact us now</span>
+  </a>
 </p>
 </section>
 </div>
