@@ -3,7 +3,7 @@ import styles from "../components/bulma.module.css"
 import styles1 from "../components/container.module.css"
 
 export default () => (
-<footer className={styles.footer+" "+styles1.futa}>
+<footer className={styles.footer+" "+styles1.futa} id="about">
 <div className={styles.level}>
 <div className={styles.levelRight}>
 <div className={styles.levelItem}>
