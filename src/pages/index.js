@@ -194,7 +194,6 @@ The project aimed at upgrading MLLTC as well as capacity building of staff at th
 Animal Resources and Fisheries (MARF) capacity in Technical Vocational Education and Training
 (TVET) policy formulation and implementation in South Sudan
 </p>
-<span className={styles.button}>view more</span>
 </div>
 </div>
 </div>
@@ -218,7 +217,6 @@ The Alliance for Green Revolution in Africa
 Sudan over the last few years since
 formation in 2006
 </p>
-<span className={styles.button}>view more</span>
 </div>
 </div>
 </div>
@@ -243,7 +241,6 @@ This was a programme funded Strømme Foundation
 (SF) in partnership with the Norwegian Church Aid (NCA), and the South Sudan national Ministry
 of Education and General Instruction (MoGEI)
 </p>
-<span className={styles.button}>view more</span>
 </div>
 </div>
 </div>
@@ -272,7 +269,6 @@ Mid-term Evaluation of Community Action Programme for Action Africa Help Interna
 The goal of CAPOR project is to create a peaceful post-conflict transition and reconstruction
 process in Equatoria region of South Sudan.
 </p>
-<span className={styles.button}>view more</span>
 </div>
 </div>
 </div>
@@ -297,7 +293,6 @@ Concern Worldwide – South Sudan Programme contracted our experts to undertake 
 comprehensive evaluation of a food security, soil and water conservation and capacity support
 programme implemented in several counties in Aweil West and Aweil North Counties
 </p>
-<span className={styles.button}>view more</span>
 </div>
 </div>
 </div>
@@ -321,7 +316,6 @@ OPRD, Education Project
 The Organization for Peace, Relief and Development (OPRD) is an indigenous South Sudanese
 CBOs with multi-lateral donors supporting various development initiatives in Easter Equatoria
 </p>
-<span className={styles.button}>view more</span>
 </div>
 </div>
 </div>
