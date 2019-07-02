@@ -60,7 +60,6 @@ and rural developmental interventions in South Sudan.
 <div className={styles.cardContent}>
 <div className={styles.content}>
 <h4 className={styles.hasTextCentered} style={{fontSize:`17px`}}>baseline surveys and community needs assessments</h4>
-<p style={{color: `#a1a5ae`,fontSize: `13px`}}>You better visit my github to view my previous work. Hopefully</p>
 </div>
 </div>
 </div>
@@ -78,7 +77,6 @@ and rural developmental interventions in South Sudan.
 <div className={styles.content}>
 <h4 className={styles.hasTextCentered} style={{fontSize:`17px`}}>project formulations
 and evaluations</h4>
-<p style={{color: `#a1a5ae`,fontSize: `13px`}}>You better visit my github to view my previous work. Hopefully</p>
 </div>
 </div>
 </div>
@@ -95,7 +93,6 @@ and evaluations</h4>
 <div className={styles.cardContent}>
 <div className={styles.content}>
 <h4 className={styles.hasTextCentered} style={{fontSize:`17px`}}>value chains analysis and development</h4>
-<p style={{color: `#a1a5ae`,fontSize: `13px`}}>You better visit my github to view my previous work. Hopefully</p>
 </div>
 </div>
 </div>
@@ -119,7 +116,6 @@ and evaluations</h4>
 <div className={styles.content}>
 <h4 className={styles.hasTextCentered} style={{fontSize:`17px`}}>strategic planning and policy
 frameworks</h4>
-<p style={{color: `#a1a5ae`,fontSize: `13px`}}>You better visit my github to view my previous work. Hopefully</p>
 </div>
 </div>
 </div>
@@ -136,7 +132,6 @@ frameworks</h4>
 <div className={styles.cardContent}>
 <div className={styles.content}>
 <h4 className={styles.hasTextCentered} style={{fontSize:`17px`}}>program management</h4>
-<p style={{color: `#a1a5ae`,fontSize: `13px`}}>You better visit my github to view my previous work. Hopefully</p>
 </div>
 </div>
 </div>
@@ -153,7 +148,6 @@ frameworks</h4>
 <div className={styles.cardContent}>
 <div className={styles.content}>
 <h4 className={styles.hasTextCentered} style={{fontSize:`17px`}}>trade facilitation</h4>
-<p style={{color: `#a1a5ae`,fontSize: `13px`}}>You better visit my github to view my previous work. Hopefully</p>
 </div>
 </div>
 </div>
