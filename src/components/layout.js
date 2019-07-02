@@ -44,9 +44,9 @@ export default ({children}) =>[
       <a className={styles.navbarItem+" "+styles1.navbarText} href="#work">
       Work
       </a>
-      <Link className={styles.navbarItem+" "+styles1.navbarText} to="/about/">
+      <a className={styles.navbarItem+" "+styles1.navbarText} href="#about">
       About
-      </Link>
+      </a>
       <a className={styles.navbarItem+" "+styles1.navbarText} style={{color:`#3273dc`}} href="mailto:elemanhillary@gmail.com">
         <span className={styles.button+" "+styles1.button}>Contact Us</span>
       </a>
